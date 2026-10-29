@@ -26,7 +26,7 @@ The frontend shows a live tool UI with:
 
 ## Prerequisites
 
-- Node.js >= 18
+- Node.js 26 LTS (26.13.0)
 - Python >= 3.10
 - An OpenAI API key
 
